@@ -1,0 +1,189 @@
+
+
+#top{
+    position: absolute;
+    width: 100%;
+    height: 250px;
+    top: 0px;
+    
+    background: #F3410E;
+}
+
+#kinder img{
+    position: absolute;
+    width: 523px;
+    height: 164px;
+    left: 40%;
+    top: 170px;
+}
+
+#topLeader{
+    position: relative;
+    left: 0px;
+    top: 350px;
+}
+
+#midLeader{
+    position: relative;
+    left: 0px;
+    top: 1100px;
+}
+
+#midDivisior{
+    position: absolute;
+    width: 100%;
+    height: 413px;
+    top: 1480px;
+    
+    background: #F3410E;
+}
+
+#bottomLeader{
+    position: relative;
+    left: 0px;
+    top: 1980px;
+}
+
+.ovo{
+    position: absolute;
+    left: 100px;
+    top: 0px;
+}
+
+.text{
+    position: absolute;
+    width: 777px;
+    height: 561px;
+    left: 55%;
+    top: 0px;
+    
+    background: #F3410E;
+    border-radius: 105px;
+    filter: drop-shadow(10px 14px 10px rgba(39, 38, 38, 0.7));
+}
+
+.text p{
+    position: absolute;
+    width: 720px;
+    height: 450px;
+    left: 20px;
+    top: 10px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+   
+    color: #FFFFFF;
+    text-shadow: 5px 10px 10px rgba(39, 38, 38, 0.7);
+}
+
+.ovoRight{
+    position: absolute;
+    left: 60%;
+    top: 0px;
+}
+
+.textLeft{
+    position: absolute;
+    width: 777px;
+    height: 561px;
+    left: 100px;
+    top: 0px;
+    
+    background: #F3410E;
+    border-radius: 105px;
+    filter: drop-shadow(10px 14px 10px rgba(39, 38, 38, 0.7));
+}
+
+.textLeft p{
+    position: absolute;
+    width: 720px;
+    height: 450px;
+    left: 20px;
+    top: 10px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+   
+    color: #FFFFFF;
+    text-shadow: 5px 10px 10px rgba(39, 38, 38, 0.7);
+}
+
+#buttons{
+    position: relative;
+    left: 0px;
+    top: 2630px;
+}
+
+.buttonBuy{
+    position: absolute;
+    width: 571px;
+    height: 162px;
+    left: 63px;
+    top: 0px;
+    
+    background: #FF0202;
+    border-radius: 105px;
+    filter: drop-shadow(10px 14px 10px rgba(39, 38, 38, 0.7));
+}
+
+.buttonBuy p{
+    position: absolute;
+    width: 500px;
+    height: 60px;
+    left: 35px;
+    top: 0px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+   
+    color: #FFFFFF;
+    text-shadow: 5px 10px 10px rgba(39, 38, 38, 0.7);
+}
+
+.buttonMore{
+    position: absolute;
+    width: 571px;
+    height: 162px;
+    left: 774px;
+    top: 0px;
+    
+    background: #FF0202;
+    border-radius: 105px;
+    filter: drop-shadow(10px 14px 10px rgba(39, 38, 38, 0.7));
+}
+
+.buttonMore p{
+    position: absolute;
+    width: 500px;
+    height: 60px;
+    left: 35px;
+    top: 0px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 60px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    text-shadow: 5px 10px 10px rgba(39, 38, 38, 0.7);
+}
+
+#bottom{
+    position: absolute;
+    width: 2307px;
+    height: 250px;
+    left: 0px;
+    top: 2870px;
+}
