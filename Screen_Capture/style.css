@@ -1,4 +1,15 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
+#screen{
+    position: relative;
+    width: 100%;
+    height: 3009px;
+    background-color: #FFFFFF;
+}
 
 #top{
     position: absolute;
@@ -19,43 +30,44 @@
 
 #topLeader{
     position: relative;
-    left: 0px;
+    width: 100%;
+    height: 561px;
     top: 350px;
 }
 
 #midLeader{
     position: relative;
-    left: 0px;
-    top: 1100px;
+    width: 100%;
+    height: 561px;
+    top: 500px;
 }
 
 #midDivisior{
     position: absolute;
     width: 100%;
     height: 413px;
-    top: 1480px;
+    top: 50%;
     
     background: #F3410E;
 }
 
 #bottomLeader{
     position: relative;
-    left: 0px;
-    top: 1980px;
+    width: 100%;
+    height: 561px;
+    top: 1000px;
 }
 
 .ovo{
     position: absolute;
-    left: 100px;
-    top: 0px;
+    left: auto;
 }
 
 .text{
     position: absolute;
-    width: 777px;
-    height: 561px;
+    width: 45%;
+    height: 100%;
     left: 55%;
-    top: 0px;
     
     background: #F3410E;
     border-radius: 105px;
@@ -81,8 +93,7 @@
 
 .ovoRight{
     position: absolute;
-    left: 60%;
-    top: 0px;
+    left: 55%;
 }
 
 .textLeft{
@@ -116,8 +127,9 @@
 
 #buttons{
     position: relative;
-    left: 0px;
-    top: 2630px;
+    width: 100%;
+    height: 165px;
+    top: 1200px;
 }
 
 .buttonBuy{
@@ -180,10 +192,11 @@
     text-shadow: 5px 10px 10px rgba(39, 38, 38, 0.7);
 }
 
-#bottom{
-    position: absolute;
-    width: 2307px;
+#bottom img{
+    position: relative;
+    width: 100%;
     height: 250px;
-    left: 0px;
-    top: 2870px;
+    background-image: url('img/barra.png');
+    background-size: 100% 100%;
+    top: 1600px;
 }
